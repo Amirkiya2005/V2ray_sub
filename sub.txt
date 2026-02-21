@@ -50,13 +50,7 @@ vless://b5fe39a2-9843-41e0-9c1c-a616a0f627e4@104.18.32.47:8443?security=tls&type
 vless://b5fe39a2-9843-41e0-9c1c-a616a0f627e4@188.114.98.12:8443?security=tls&type=ws&headerType=&path=%2Fws&host=&sni=amo.primenet3.shop&fp=#ᴄᴅɴ 🚀 | 🇩🇪
 vless://b5fe39a2-9843-41e0-9c1c-a616a0f627e4@104.18.198.131:8443?security=tls&type=ws&headerType=&path=%2Fws&host=&sni=amo.primenet3.shop&fp=#ᴄᴅɴ 🚀 | 🇩🇪
 vless://b5fe39a2-9843-41e0-9c1c-a616a0f627e4@188.114.98.9:8443?security=tls&type=ws&headerType=&path=%2Fws&host=&sni=amo.primenet3.shop&fp=#ᴄᴅɴ 🚀 | 🇩🇪
-vless://b5fe39a2-9843-41e0-9c1c-a616a0f627e4@45.67.215.208:80?security=none&type=ws&headerType=&path=%2Fws&host=arps.global.ssl.fastly.net#ᴄᴅɴ 🚀 | 🇩🇪
-vless://b5fe39a2-9843-41e0-9c1c-a616a0f627e4@45.67.215.235:80?security=none&type=ws&headerType=&path=%2Fws&host=arps.global.ssl.fastly.net#ᴄᴅɴ 🚀 | 🇩🇪
-vless://b5fe39a2-9843-41e0-9c1c-a616a0f627e4@45.67.215.227:80?security=none&type=ws&headerType=&path=%2Fws&host=arps.global.ssl.fastly.net#ᴄᴅɴ 🚀 | 🇩🇪
-vless://b5fe39a2-9843-41e0-9c1c-a616a0f627e4@45.67.215.233:80?security=none&type=ws&headerType=&path=%2Fws&host=arps.global.ssl.fastly.net#ᴄᴅɴ 🚀 | 🇩🇪
-vless://b5fe39a2-9843-41e0-9c1c-a616a0f627e4@63.141.128.12:80?security=none&type=ws&headerType=&path=%2Fws&host=arps.global.ssl.fastly.net#ᴄᴅɴ 🚀 | 🇩🇪
-vless://b5fe39a2-9843-41e0-9c1c-a616a0f627e4@63.141.128.4:80?security=none&type=ws&headerType=&path=%2Fws&host=arps.global.ssl.fastly.net#ᴄᴅɴ 🚀 | 🇩🇪
-vless://b5fe39a2-9843-41e0-9c1c-a616a0f627e4@63.141.128.14:80?security=none&type=ws&headerType=&path=%2Fws&host=arps.global.ssl.fastly.net#ᴄᴅɴ 🚀 | 🇩🇪
+-a616a0f627e4@63.141.128.14:80?security=none&type=ws&headerType=&path=%2Fws&host=arps.global.ssl.fastly.net#ᴄᴅɴ 🚀 | 🇩🇪
 vless://b5fe39a2-9843-41e0-9c1c-a616a0f627e4@63.141.128.11:80?security=none&type=ws&headerType=&path=%2Fws&host=arps.global.ssl.fastly.net#ᴄᴅɴ 🚀 | 🇩🇪
 vless://b5fe39a2-9843-41e0-9c1c-a616a0f627e4@63.141.128.13:80?security=none&type=ws&headerType=&path=%2Fws&host=arps.global.ssl.fastly.net#ᴄᴅɴ 🚀 | 🇩🇪
 vless://b5fe39a2-9843-41e0-9c1c-a616a0f627e4@69.84.182.98:80?security=none&type=ws&headerType=&path=%2Fws&host=arps.global.ssl.fastly.net#ᴄᴅɴ 🚀 | 🇩🇪
